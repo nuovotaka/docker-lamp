@@ -1,4 +1,4 @@
-php7.1, mysql 5.7
+php7, mysql 5.7
 
 ## 使い方
 
